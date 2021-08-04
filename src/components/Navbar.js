@@ -30,7 +30,7 @@ function Navbar() {
                     <Setting className="icons" />
                     <Help className="icons" />
                     <Brightness className="icons" />
-                    <p>CHANDRESH SINGH</p>
+                    <p>DHRUV GUPTA</p>
                     <Account className="icons" />
                 </div>
             </header>
